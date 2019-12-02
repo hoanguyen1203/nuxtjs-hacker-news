@@ -33,7 +33,7 @@ $ npm run generate
 
 ## Preview how it work
 
-![Nuxt-Hacker-News!](https://github.com/hoanguyen1203/nuxtjs-hacker-news/tree/master/assets/nuxtjs-hacker-news.gif)
+![Nuxt-Hacker-News!](https://github.com/hoanguyen1203/nuxtjs-hacker-news/blob/master/assets/nuxtjs-hacker-news.gif)
 
 
 # License
