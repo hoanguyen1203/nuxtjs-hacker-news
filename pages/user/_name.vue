@@ -32,6 +32,7 @@
           ['day', 24 * 60 * 60],
           ['hour', 60 * 60],
           ['minute', 60],
+          ['second', 1]
         ]
         let timeAgo = {}
         for (const [name, number] of arrayTime) {
